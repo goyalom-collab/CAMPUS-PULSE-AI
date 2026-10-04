@@ -10,8 +10,8 @@
 CampusPulse runs on a multi-device development server listening on `0.0.0.0:8080` (all network interfaces). This allows access from both the development PC and any mobile phone/tablet on the same Wi-Fi.
 
 ### 🌐 Access URLs:
-- **Computer URL:** [**http://localhost:8080/**](http://localhost:8080/)
-- **Phone / Wi-Fi URL:** [**http://10.10.186.31:8080/**](http://10.10.186.31:8080/)
+- **Computer URL:** [**http://localhost:8080/**](http://localhost:8080)
+- **Phone / Wi-Fi URL:** [**http://10.10.186.31:8080/**](http://10.10.186.31:8080)
   *(Connect your Android / iOS phone to the same Wi-Fi network and open `http://10.10.186.31:8080` in Chrome/Safari).*
 
 ---
